@@ -17,34 +17,29 @@ header {
       text-align: center;
     }
 
-    .nav {
+   .nav {
       display: flex;
       justify-content: space-around;
       background-color: #444;
       padding: 1rem;
     }
-
     .nav a {
       color: #fff;
       text-decoration: none;
     }
-
     .content {
       padding: 2rem;
     }
-
     .grid-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
       gap: 1rem;
     }
-
     .card {
       background-color: #f4f4f4;
       padding: 1rem;
       text-align: center;
     }
-
     /* Media Queries */
     @media (max-width: 600px) {
       .nav {
