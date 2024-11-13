@@ -10,8 +10,7 @@
       margin: 0;
       padding: 0;
     }
-
-    header {
+header {
       background-color: #333;
       color: #fff;
       padding: 1rem;
